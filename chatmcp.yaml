@@ -1,10 +1,10 @@
 name: date-tool-mcp
 description: date
-author: https://github.com/zxk0311/date-tool-mcp
+author: https://github.com/sherlockg27/-
 license: MIT
 tags:
   - date-tool
-  - kaneai
+  - yanbin
 
 params:
   type: object
